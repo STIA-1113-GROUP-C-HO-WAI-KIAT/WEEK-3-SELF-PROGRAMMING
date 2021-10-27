@@ -1,0 +1,15 @@
+package selfProgramming;
+
+public class ImprecisionFloat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double x = 1.0;
+		double y = 3.0;
+		double xyz = x / y;
+		
+		System.out.println("The xyz is " + xyz);
+
+	}
+
+}
