@@ -1,0 +1,27 @@
+package selfProgramming;
+
+public class Expression {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(3 * 4);
+		System.out.println("3 * 4");
+		
+		System.out.println(1 - 2 - 3 );
+		System.out.println((1 - 2) - 3 );
+		System.out.println(1 - (2 - 3));
+		
+		System.out.println(14/4);
+		System.out.println(14%4);
+		System.out.println(45 % 6);
+		System.out.println(2 % 2);
+		System.out.println(8 % 20);
+		//What is 8 % 20?  It's 8, but they will probably say 0.
+
+		System.out.println(11 % 0);
+		
+		
+
+	}
+
+}
