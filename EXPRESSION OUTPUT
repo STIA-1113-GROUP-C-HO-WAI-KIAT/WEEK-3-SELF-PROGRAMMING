@@ -1,0 +1,12 @@
+12
+3 * 4
+-4
+-4
+2
+3
+2
+3
+0
+8
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at selfProgramming.Expression.main(Expression.java:21)
