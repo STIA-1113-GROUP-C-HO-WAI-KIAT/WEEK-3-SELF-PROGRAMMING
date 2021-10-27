@@ -1,0 +1,18 @@
+package selfProgramming;
+
+public class SimpleScreenOutput {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int count = 2;
+		System.out.println("The count is " + count);
+		
+		double x = 8.65e8;
+		double y =4.83e-4;
+		
+		System.out.println("The x and y is " + x +" and " +y);
+
+
+	}
+
+}
